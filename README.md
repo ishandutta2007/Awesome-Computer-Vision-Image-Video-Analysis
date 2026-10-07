@@ -33,9 +33,9 @@ Welcome to the definitive curated directory of **computer vision platforms**, **
 The global Computer Vision market size is estimated at **$22.3 Billion in 2024** and is projected to reach **$50.9 Billion by 2030**, growing at a CAGR of **14.7%**. The market sector is **moderately fragmented**: hyper-scaler cloud providers (Microsoft Azure, AWS, Google Cloud) dominate general-purpose visual recognition APIs, while specialized commercial MLOps platforms (Roboflow, Landing AI, Clarifai) and agile open-source foundation models (Ultralytics YOLO, Meta SAM) hold critical market share in edge deployment, zero-shot segmentation, and industrial visual inspection. 🏭
 
 **Key Ecosystem Highlights:**
-- **OpenCV** remains the **foundational computer vision library**, with **80K+ GitHub stars** and **2,500+ optimized algorithms**. 🛠️
-- **Segment Anything Model (SAM 2) by Meta** leads **zero-shot image and video segmentation**, with **50K+ GitHub stars**. 🎨
-- **Ultralytics YOLO** dominates **real-time object detection and edge deployments**, with **35K+ GitHub stars**. 🎯
+- **OpenCV** remains the **foundational computer vision library**, with **80K+ GitHub_Stars** and **2,500+ optimized algorithms**. 🛠️
+- **Segment Anything Model (SAM 2) by Meta** leads **zero-shot image and video segmentation**, with **50K+ GitHub_Stars**. 🎨
+- **Ultralytics YOLO** dominates **real-time object detection and edge deployments**, with **35K+ GitHub_Stars**. 🎯
 
 ---
 
@@ -71,52 +71,52 @@ The global Computer Vision market size is estimated at **$22.3 Billion in 2024**
 
 ## 🔓 Open-Source GitHub Projects 🌾
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
-  **State-of-the-art ML for vision, text, and audio**, Apache-2.0 licensed. **130K+ GitHub stars** — **the de facto standard for Vision Transformers (ViT), DETR, CLIP, and VLMs**. Unified API for training and inference across PyTorch and TensorFlow. 🤗
+  **State-of-the-art ML for vision, text, and audio**, Apache-2.0 licensed. **130K+ GitHub_Stars** — **the de facto standard for Vision Transformers (ViT), DETR, CLIP, and VLMs**. Unified API for training and inference across PyTorch and TensorFlow. 🤗
 
 - **[OpenCV](https://github.com/opencv/opencv)** [![Stars](https://img.shields.io/github/stars/opencv/opencv?style=social&color=white)](https://github.com/opencv/opencv/stargazers)  
-  **The foundational open-source computer vision library**, Apache-2.0 licensed. **80K+ GitHub stars** — **the most widely used CV library globally**. 2,500+ optimized algorithms for image processing, object detection, face recognition, and matrix operations across C++, Python, Java, and Android/iOS. 👁️
+  **The foundational open-source computer vision library**, Apache-2.0 licensed. **80K+ GitHub_Stars** — **the most widely used CV library globally**. 2,500+ optimized algorithms for image processing, object detection, face recognition, and matrix operations across C++, Python, Java, and Android/iOS. 👁️
 
 - **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** [![Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers)  
-  **Open-source OCR engine**, Apache-2.0 licensed. **58K+ GitHub stars** — **100+ language support with LSTM neural network recognition**. Originally developed by HP, now maintained by Google. 📄
+  **Open-source OCR engine**, Apache-2.0 licensed. **58K+ GitHub_Stars** — **100+ language support with LSTM neural network recognition**. Originally developed by HP, now maintained by Google. 📄
 
 - **[Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything)** [![Stars](https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social&color=white)](https://github.com/facebookresearch/segment-anything/stargazers)  
-  **Foundation model for image and video segmentation**, Apache-2.0 licensed. **50K+ GitHub stars** — **zero-shot segmentation from points, boxes, or text prompts**. SAM 2 extends promptable segmentation to video streams in real-time. 🎨
+  **Foundation model for image and video segmentation**, Apache-2.0 licensed. **50K+ GitHub_Stars** — **zero-shot segmentation from points, boxes, or text prompts**. SAM 2 extends promptable segmentation to video streams in real-time. 🎨
 
 - **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)  
-  **Awesome multilingual OCR toolkit**, Apache-2.0 licensed. **42K+ GitHub stars** — **80+ languages supported with ultra-lightweight PP-OCRv4 models**. Includes text detection, recognition, layout analysis, and document parsing for mobile and server. 📝
+  **Awesome multilingual OCR toolkit**, Apache-2.0 licensed. **42K+ GitHub_Stars** — **80+ languages supported with ultra-lightweight PP-OCRv4 models**. Includes text detection, recognition, layout analysis, and document parsing for mobile and server. 📝
 
 - **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics)** [![Stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=social&color=white)](https://github.com/ultralytics/ultralytics/stargazers)  
-  **State-of-the-art object detection and segmentation**, AGPL-3.0 licensed. **36K+ GitHub stars** — **dominant real-time vision framework featuring YOLOv8 and YOLO11**. Built for object detection, instance segmentation, pose estimation, and object tracking on CPU, GPU, and edge. 🎯
+  **State-of-the-art object detection and segmentation**, AGPL-3.0 licensed. **36K+ GitHub_Stars** — **dominant real-time vision framework featuring YOLOv8 and YOLO11**. Built for object detection, instance segmentation, pose estimation, and object tracking on CPU, GPU, and edge. 🎯
 
 - **[MediaPipe (Google)](https://github.com/google/mediapipe)** [![Stars](https://img.shields.io/github/stars/google/mediapipe?style=social&color=white)](https://github.com/google/mediapipe/stargazers)  
-  **Cross-platform ML pipeline framework**, Apache-2.0 licensed. **27K+ GitHub stars** — **real-time face mesh, hand tracking, pose estimation, and object detection**. Lightweight and battle-tested in Google Meet and YouTube. 🖐️
+  **Cross-platform ML pipeline framework**, Apache-2.0 licensed. **27K+ GitHub_Stars** — **real-time face mesh, hand tracking, pose estimation, and object detection**. Lightweight and battle-tested in Google Meet and YouTube. 🖐️
 
 - **[MMDetection](https://github.com/open-mmlab/mmdetection)** [![Stars](https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social&color=white)](https://github.com/open-mmlab/mmdetection/stargazers)  
-  **OpenMMLab detection toolbox**, Apache-2.0 licensed. **27K+ GitHub stars** — **modular framework with 100+ object detection algorithms**. Features Faster R-CNN, Mask R-CNN, RetinaNet, Deformable DETR, and YOLO modules. 🔧
+  **OpenMMLab detection toolbox**, Apache-2.0 licensed. **27K+ GitHub_Stars** — **modular framework with 100+ object detection algorithms**. Features Faster R-CNN, Mask R-CNN, RetinaNet, Deformable DETR, and YOLO modules. 🔧
 
 - **[Detectron2 (Meta)](https://github.com/facebookresearch/detectron2)** [![Stars](https://img.shields.io/github/stars/facebookresearch/detectron2?style=social&color=white)](https://github.com/facebookresearch/detectron2/stargazers)  
-  **Object detection and panoptic segmentation library**, Apache-2.0 licensed. **26K+ GitHub stars** — **next-gen research platform powered by PyTorch**. Supports object detection, instance segmentation, keypoint detection, and panoptic segmentation. 🏛️
+  **Object detection and panoptic segmentation library**, Apache-2.0 licensed. **26K+ GitHub_Stars** — **next-gen research platform powered by PyTorch**. Supports object detection, instance segmentation, keypoint detection, and panoptic segmentation. 🏛️
 
 - **[Albumentations](https://github.com/albumentations-team/albumentations)** [![Stars](https://img.shields.io/github/stars/albumentations-team/albumentations?style=social&color=white)](https://github.com/albumentations-team/albumentations/stargazers)  
-  **Fast and flexible image augmentation library**, MIT licensed. **14K+ GitHub stars** — **70+ image augmentation transforms**. Optimized for performance and widely integrated into PyTorch, TensorFlow, and YOLO pipelines. 🎨
+  **Fast and flexible image augmentation library**, MIT licensed. **14K+ GitHub_Stars** — **70+ image augmentation transforms**. Optimized for performance and widely integrated into PyTorch, TensorFlow, and YOLO pipelines. 🎨
 
 - **[DeepFace](https://github.com/serengil/deepface)** [![Stars](https://img.shields.io/github/stars/serengil/deepface?style=social&color=white)](https://github.com/serengil/deepface/stargazers)  
-  **Face recognition and facial attribute analysis framework**, MIT licensed. **13K+ GitHub stars** — **lightweight face recognition framework wrapping VGG-Face, Google FaceNet, OpenFace, DeepID, ArcFace, and SwinFace**. Includes age, gender, emotion, and race estimation. 😊
+  **Face recognition and facial attribute analysis framework**, MIT licensed. **13K+ GitHub_Stars** — **lightweight face recognition framework wrapping VGG-Face, Google FaceNet, OpenFace, DeepID, ArcFace, and SwinFace**. Includes age, gender, emotion, and race estimation. 😊
 
 - **[FiftyOne](https://github.com/voxel51/fiftyone)** [![Stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=social&color=white)](https://github.com/voxel51/fiftyone/stargazers)  
-  **Open-source dataset curation and model visualization**, Apache-2.0 licensed. **8.5K+ GitHub stars** — **visualize computer vision datasets, evaluate model predictions, and filter annotations**. Compatible with PyTorch, TensorFlow, and YOLO. 📊
+  **Open-source dataset curation and model visualization**, Apache-2.0 licensed. **8.5K+ GitHub_Stars** — **visualize computer vision datasets, evaluate model predictions, and filter annotations**. Compatible with PyTorch, TensorFlow, and YOLO. 📊
 
 - **[Supervision (Roboflow)](https://github.com/roboflow/supervision)** [![Stars](https://img.shields.io/github/stars/roboflow/supervision?style=social&color=white)](https://github.com/roboflow/supervision/stargazers)  
-  **Reusable computer vision utilities**, MIT licensed. **23K+ GitHub stars** — **annotators, zone counters, object trackers (ByteTrack), and evaluation metrics**. Simplifies computer vision application development. 👁️
+  **Reusable computer vision utilities**, MIT licensed. **23K+ GitHub_Stars** — **annotators, zone counters, object trackers (ByteTrack), and evaluation metrics**. Simplifies computer vision application development. 👁️
 
 - **[DeepStream SDK Tools / DeepStream Python (NVIDIA)](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps)** [![Stars](https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_python_apps?style=social&color=white)](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps/stargazers)  
-  **Multi-sensor processing and video analytics framework**, Apache-2.0 licensed. **4.5K+ GitHub stars** — **high-performance streaming video analytics SDK powered by TensorRT and CUDA**. Real-time object tracking and AI pipeline deployment for NVIDIA GPUs and Jetson edge devices. ⚡
+  **Multi-sensor processing and video analytics framework**, Apache-2.0 licensed. **4.5K+ GitHub_Stars** — **high-performance streaming video analytics SDK powered by TensorRT and CUDA**. Real-time object tracking and AI pipeline deployment for NVIDIA GPUs and Jetson edge devices. ⚡
 
 - **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** [![Stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=social&color=white)](https://github.com/JaidedAI/EasyOCR/stargazers)  
-  **Ready-to-use OCR with 80+ supported languages**, Apache-2.0 licensed. **24K+ GitHub stars** — **Python OCR module powered by PyTorch (CRAFT text detection and ResNet/LSTM recognition)**. Extremely easy to integrate. 📖
+  **Ready-to-use OCR with 80+ supported languages**, Apache-2.0 licensed. **24K+ GitHub_Stars** — **Python OCR module powered by PyTorch (CRAFT text detection and ResNet/LSTM recognition)**. Extremely easy to integrate. 📖
 
 ---
 
@@ -126,7 +126,7 @@ Contributions are welcome! Follow these steps to submit new computer vision plat
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
